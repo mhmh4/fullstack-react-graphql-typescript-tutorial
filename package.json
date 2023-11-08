@@ -16,8 +16,7 @@
     "typescript": "^5.2.2"
   },
   "dependencies": {
-    "pg": "^8.11.3",
-    "reflect-metadata": "^0.1.13",
-    "typeorm": "^0.3.17"
+    "@mikro-orm/core": "^5.9.3",
+    "@mikro-orm/postgresql": "^5.9.3"
   }
 }
